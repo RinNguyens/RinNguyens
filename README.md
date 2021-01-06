@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rin</h1>
+<h1 align="center">Hi 👋 I'm Rin</h1>
 <p><sub align="center">
 I am currently working as a Sr Frontend Engineer for Sutrix Solutions. Outside of work, I contribute to open source libraries such as nestjs/swagger and various other libraries. I am also the creator and maintainer of nartc/automapper which is my implementation for AutoMapper in TypeScript 👋
 </sub></p>
 <hr/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinnguyens&label=Profile%20views&color=0e75b6&style=flat" alt="rinnguyens" /> </p>
+
+<p><img align="center" src="https://miro.medium.com/max/2800/1*QFRce-OnlybDjvWhMX8Y-w.gif" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
