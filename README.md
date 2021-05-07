@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Rin</h1>
 <p><sub align="center">
-I am currently working as a Sr Frontend Engineer for Sutrix Solutions. Outside of work, I contribute to open source libraries such as nestjs/swagger and various other libraries. I am also the creator and maintainer of nartc/automapper which is my implementation for AutoMapper in TypeScript 👋
+I am currently working as a Sr Frontend Engineer for Sutrix Solutions. :D
 </sub></p>
 <hr/>
 
