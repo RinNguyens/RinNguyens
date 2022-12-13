@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Rin</h1>
 <p><sub align="center">
-I am currently working as a Mid Frontend Engineer for Sutrix Solutions. :D
+I am currently working as a Mid Frontend Engineer for VNG Corporation. :D
 </sub></p>
 <hr/>
 
