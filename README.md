@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Rin</h1>
 <p><sub align="center">
-I am currently working as a Mid Frontend Engineer for VNG Corporation. :D
+I am currently working as a Frontend Engineer for VNG Corporation. :D
 </sub></p>
 <p><img align="center" src="profile_header_logo.png" /></p>
 <hr/>
