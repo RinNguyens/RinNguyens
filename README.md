@@ -7,7 +7,7 @@ I am currently working as a Mid Frontend Engineer for VNG Corporation. :D
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinnguyens&label=Profile%20views&color=0e75b6&style=flat" alt="rinnguyens" /> </p>
 
 <p><img align="center" src="https://miro.medium.com/max/2800/1*QFRce-OnlybDjvWhMX8Y-w.gif" /></p>
-<p><img align="center" src=".profile_header_logo.png" /></p>
+<p><img align="center" src="profile_header_logo.png" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
