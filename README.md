@@ -4,7 +4,6 @@ I am currently working as a Frontend Engineer for VNG Corporation. :D
 </sub></p>
 <p><img align="center" src="profile_header_logo.png" /></p>
 <hr/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rinnguyens&label=Profile%20views&color=0e75b6&style=flat" alt="rinnguyens" /> </p>
 
 <p><img align="center" src="https://miro.medium.com/max/2800/1*QFRce-OnlybDjvWhMX8Y-w.gif" /></p>
