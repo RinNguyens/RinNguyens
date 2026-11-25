@@ -60,13 +60,6 @@ Playwright · Vite · Webpack · Git · Docker
 | **[Hi Nha Trang Stay](https://hinhatrangstay.com/)** | A website for a stay in Nha Trang, built to make browsing rooms and booking simple. | Web · Booking |
 | **[GlobeOne](https://www.globe.com.ph/)** | Frontend for Globe Telecom's app (15M monthly users): accounts, billing, promotions, rewards and the shared mobile data pool. | Frontend · Telecom |
 
-## Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=rinnguyens&show_icons=true&locale=en" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rinnguyens&locale=en&layout=compact" alt="Top languages" />
-</p>
-
 ## Let's make something lovely
 
 I'm always happy to talk about new projects, roles, or ideas that aren't fully formed yet. Find me at **[rinchan.xyz](https://rinchan.xyz/#contact)**.
